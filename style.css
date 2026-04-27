@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 0.8rem;
+  height: 100vh;
+  background: #a4aab1;
+  /* background: linear-gradient(to top left, #2e619c, #c0ceee); */
+}
+
+.select-label {
+  font-size: 1.75rem; /* h3 boyutu (yaklaşık 28px) */
+  /* color: white;       beyaz renk */
+  color: rgb(223, 12, 12);
+  font-weight: bold;  /* kalın yazı (opsiyonel) */
+  display: block;     /* alt satıra almak için */
+  margin-bottom: 8px; /* select ile araya boşluk */
+}
+
+h1 {
+  width: 50%;
+  min-width: 18rem;
+}
+.input{
+  width: 35%;
+  min-width: 18rem;
+}
+
+.form-select {
+  background-color: bisque;
+  /* width: 100%; */
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  /* border-radius: 5px; */
+}
+
