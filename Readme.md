@@ -14,11 +14,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://umit8098.github.io/Project-js-Flag-App/">
+    <a href="https://umitarat-dev.github.io/Global-Insight-Explorer/">
       🖥️ Live Demo
     </a>
      | 
-    <a href="https://github.com/Umit8098/Project-js-Flag-App.git">
+    <a href="https://github.com/umitarat-dev/Global-Insight-Explorer.git">
       📂 Repository
     </a>
  
@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-  <a href="https://umitarat-dev.github.io/VanillaJS-TaskVault/">
+  <a href="https://umitarat-dev.github.io/Global-Insight-Explorer/">
     <img src="./assets/Global-Insight-Explorer.gif" alt="Global-Insight-Explorer" width="700"/>
   </a>
 </p>
@@ -69,7 +69,7 @@ The project focuses on working with **asynchronous data**, **Fetch API**, and re
 ## ⚡ How To Use
 ```bash
 # Clone the repository
-git clone https://github.com/Umit8098/Project-js-Flag-App.git
+git clone https://github.com/umitarat-dev/Global-Insight-Explorer.git
 
 # Open index.html in your browser
 ```
